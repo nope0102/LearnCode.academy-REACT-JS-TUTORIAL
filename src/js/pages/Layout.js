@@ -2,8 +2,6 @@ import React from "react";
 import { Link } from "react-router";
 import createHistory from "history/createBrowserHistory";
 
-const Home = 
-
 export default class Layout extends React.Component {
 
   navigate() {
